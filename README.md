@@ -12,6 +12,8 @@
 
 </div>
 
+> **Feve is an independent application published on the Google Play Store under the production package pointer `com.femia.health` and hosted officially at [feve.life](https://feve.life).**
+
 ---
 
 `localStorage` is convenient — and **readable by anyone with access to the browser profile**: other people
